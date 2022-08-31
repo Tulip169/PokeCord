@@ -77,4 +77,4 @@ async def cmd_shutdown(context):
 
 
 print(f"[{datetime.now().strftime('%b-%d %H:%M')}] Start Bot")
-bot.run(TOKEN)
+bot.run(MTAxNDY1NTIzNjU5MTMzNzU3Mw.GeAZyT.o99JJ7Q_I31NHXOcY1EppjfF3Uek97ZqmFATKs)
